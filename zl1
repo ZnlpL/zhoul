@@ -1,2 +1,6 @@
 zhoul good
-zhoul+nice
+<<<<<<< HEAD
+zhoul nice
+=======
+zhoul nice
+>>>>>>> dev1
